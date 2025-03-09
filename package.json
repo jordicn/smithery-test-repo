@@ -1,0 +1,30 @@
+{
+  "name": "smithery-test-repo",
+  "version": "1.0.0",
+  "description": "A test repository created using Smithery and the Model Context Protocol",
+  "main": "github-integration.js",
+  "scripts": {
+    "start": "node github-integration.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smithery",
+    "mcp",
+    "github",
+    "api",
+    "integration"
+  ],
+  "author": "Jordi Cirbian",
+  "license": "MIT",
+  "dependencies": {
+    "@smithery/client": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordicn/smithery-test-repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jordicn/smithery-test-repo/issues"
+  },
+  "homepage": "https://github.com/jordicn/smithery-test-repo#readme"
+}
